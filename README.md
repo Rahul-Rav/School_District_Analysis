@@ -32,7 +32,8 @@ In the original analysis, Thomas High School's overall passing grade was 91% but
 
 * How replacing the ninth graders' scores affect Thomas High School's performance relative to other schools:
 ### Thomas High School Performance - Original Results
-<img width="988" alt="Performance_Original" src="https://user-images.githubusercontent.com/95504135/150720946-a802193b-0e0b-484c-a925-c60dd6626f03.png">
+![Performance_Original](https://user-images.githubusercontent.com/95504135/150723864-8500182e-6c51-4666-affd-5bb6445072d5.png)
+
 
 ### Thomas High School Performance - Updated Results
 ![Performance_Updated](https://user-images.githubusercontent.com/95504135/150721633-710a5ca7-b446-47ac-9109-e9d850e6ff16.png)
