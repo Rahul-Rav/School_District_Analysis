@@ -19,11 +19,15 @@ The schools_complete.csv has each school sorted by School ID and contains inform
 ### District - Updated Results
 ![District_Updated](https://user-images.githubusercontent.com/95504135/150718629-2ffe665b-978d-4b2f-b128-5d42756d5d7e.png)
 
+Comparing the original and updated analyses, we can see that the average math score decreased by only 0.1% from 79% to 78.9%, the percentage of passing math decreased by 0.2% from 75% to 74.8%.
+The average reading score was not affected but the percentage of passing reading decreased by 0.03% from 86% to 85.7% and the percentage of overall passing decreased by 0.1% from 65% to 64.9%.
+
 * How the school summary is affected:
 #### Thomas High School - Original Results
 ![TH_Original](https://user-images.githubusercontent.com/95504135/150717924-deeb029d-6263-4c10-aa41-d66a8fb102d3.png)
 #### Thomas High School - Updated Results
 ![TH_Updated](https://user-images.githubusercontent.com/95504135/150717927-c77747e4-a076-4b10-8081-7fc2b92224ac.png)
+
 In the original analysis, Thomas High School's overall passing grade was 91% but once the 9th graders' math and reading scores were replaced with "NaN", the updated results for Thomas High School dropped to 65%.
 
 * How replacing the ninth graders' scores affect Thomas High School's performance relative to other schools:
