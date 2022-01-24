@@ -11,7 +11,13 @@ We are provided with two main datasets:
 The students_complete.csv has every student sorted by name and School ID along with which school they attend, their gender, grade, and their reading and math scores.
 The schools_complete.csv has each school sorted by School ID and contains information on the size of each school and their budgets.
 
-
 ## Results
 
+* How the district summary is affected:
+
+* How the school summary is affected:
+
+* How replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to other schools:
+
+### Affect of replacing the ninth-grade scores on
 ## Summary
