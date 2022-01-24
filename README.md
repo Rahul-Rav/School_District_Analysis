@@ -12,14 +12,15 @@ The students_complete.csv has every student sorted by name and School ID along w
 The schools_complete.csv has each school sorted by School ID and contains information on the size of each school and their budgets.
 
 ## Results
-#### Thomas High School - Original Results
-![TH_Original](https://user-images.githubusercontent.com/95504135/150717924-deeb029d-6263-4c10-aa41-d66a8fb102d3.png)
-#### Thomas High School - Updated Results
-![TH_Updated](https://user-images.githubusercontent.com/95504135/150717927-c77747e4-a076-4b10-8081-7fc2b92224ac.png)
 
 * How the district summary is affected:
 
 * How the school summary is affected:
+#### Thomas High School - Original Results
+![TH_Original](https://user-images.githubusercontent.com/95504135/150717924-deeb029d-6263-4c10-aa41-d66a8fb102d3.png)
+#### Thomas High School - Updated Results
+![TH_Updated](https://user-images.githubusercontent.com/95504135/150717927-c77747e4-a076-4b10-8081-7fc2b92224ac.png)
+In the original analysis, Thomas High School's overall passing grade was 91% but once the 9th graders' math and reading scores were replaced with "NaN", the updated results for Thomas High School dropped to 65%.
 
 * How replacing the ninth graders' scores affect Thomas High School's performance relative to other schools:
 
