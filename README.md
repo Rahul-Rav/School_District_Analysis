@@ -14,6 +14,10 @@ The schools_complete.csv has each school sorted by School ID and contains inform
 ## Results
 
 * How the district summary is affected:
+### District - Original Results
+![District_Original](https://user-images.githubusercontent.com/95504135/150718621-b35ecc4e-c4a8-4148-a4ed-55909dd78201.png)
+### District - Updated Results
+![District_Updated](https://user-images.githubusercontent.com/95504135/150718629-2ffe665b-978d-4b2f-b128-5d42756d5d7e.png)
 
 * How the school summary is affected:
 #### Thomas High School - Original Results
