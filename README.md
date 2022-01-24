@@ -17,7 +17,20 @@ The schools_complete.csv has each school sorted by School ID and contains inform
 
 * How the school summary is affected:
 
-* How replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to other schools:
+* How replacing the ninth graders' scores affect Thomas High School's performance relative to other schools:
 
-### Affect of replacing the ninth-grade scores on
+### Affect of replacing the ninth-grade scores on...:
+
+* Math and reading scores by grade
+Thomas High School's 9th graders' original math and reading scores have been replaced with "NaN"
+
+* Scores by school spending
+Replacing the ninth-grade scores did not affect Scores by School Spending 
+
+* Scores by school size
+Replacing the ninth-grade scores did not affect Scores by School Size
+
+* Scores by school type
+Replacing the ninth-grade scores did not affect Scores by School Type
+
 ## Summary
