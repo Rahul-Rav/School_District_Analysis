@@ -37,7 +37,7 @@ In the original analysis, Thomas High School's overall passing grade was 91% but
 ### Thomas High School Performance - Updated Results
 ![Performance_Updated](https://user-images.githubusercontent.com/95504135/150721633-710a5ca7-b446-47ac-9109-e9d850e6ff16.png)
 
-When comparing the original and updated "ranking" / performance of each high school, and our previous Thomas High School's shool summary, which had minimal changes despite nullifying the ninth-grade scores, we can see that Thomas High School's ranking did not change from the original analysis.
+When comparing the original and updated "ranking" / performance of each high school, and our previous Thomas High School's school summary, which had minimal changes despite nullifying the ninth-grade scores, we can see that Thomas High School's ranking did not change from the original analysis.
 
 ### Affect of replacing the ninth-grade scores on...:
 
@@ -58,4 +58,4 @@ Replacing the ninth-grade scores did not affect Scores by School Size
 Replacing the ninth-grade scores did not affect Scores by School Type
 
 ## Summary
-Through our analyses we compared the original results of the school district and the updated results when taking into account the nullified math and reading scores of Thomas High School's ninth-grade class. After replacing Thomas High School's ninth-grade math and reading scores with "NaN", the school summary for Thomas High School shows a decrease in "Average Math Score", "% Passing Math", "% Passing Reading", and "% Overall Passing". These decreases are negligible, ranging from 0.1% to 0.3%, which led Thomas High School to remain high ranking comapred to the other schools in the district.
+Through our analyses we compared the original results of the school district and the updated results when taking into account the nullified math and reading scores of Thomas High School's ninth-grade class. After replacing Thomas High School's ninth-grade math and reading scores with "NaN", the school summary for Thomas High School shows a decrease in "Average Math Score", "% Passing Math", "% Passing Reading", and "% Overall Passing". These decreases are negligible, ranging from 0.1% to 0.3%, which led Thomas High School to remain high ranking compared to the other schools in the district.
